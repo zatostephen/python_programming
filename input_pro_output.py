@@ -1,4 +1,9 @@
-x = float(input("Enter a number: "))
-y = 2 * x + 4
-print("The output of y is: ", y )
+mass=float(input("Enter mass: "))
+volume=float(input("Enter volume"))
+density=mass/volume
+mass=input()
+volume=input()
+
+print("The density of the substance is",density,"kg/m3")
+
 
