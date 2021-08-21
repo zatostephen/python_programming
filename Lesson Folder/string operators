@@ -1,0 +1,7 @@
+string-1 ="Python"	
+
+string-2 ="Programming"
+
+final_string = string_1 + string_2
+
+Print(final_string)	
