@@ -44,13 +44,15 @@ print(x <= y)
 
 print(x is 10)	
 
-# error
+# error due type of variable 	
 
-print(a<< x )
+#print(a<< x )
 
-print(a>> x )
+#error because of the type of variables
+#print(a>> x )
 
-print(~a)
+# complement fail to work due to type of errors use 
+#print(~a)
 
 
 
