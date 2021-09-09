@@ -1,3 +1,4 @@
+
 #we create a variable to store exams score from user
 score=float(input("Enter Exams score: "))
 # we create condition number 1 (scores bet 90 and 100
