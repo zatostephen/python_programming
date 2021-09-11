@@ -1,8 +1,7 @@
 
 
 score=" "
-
-while score !="exit":
+while score != "exit,q":
     # break is not working,displays"ValueError: could not convert string to float: 'exit'" trying to resvove it
     score=float(input("Enter Exams score: "))
     if score >=90 and score <=100:
