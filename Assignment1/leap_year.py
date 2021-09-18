@@ -7,10 +7,8 @@ while True:
     
     
     else:
-        year=int(year)
-        if year<0:
-         print("The year",year,"is not a valid year") 
-        elif year%4!=0:
+        year=int(year) 
+        if year%4!=0:
             print("The Year",year,"is a normal year")
             
         elif year%100==0:
